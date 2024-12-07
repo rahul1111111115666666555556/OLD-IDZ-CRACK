@@ -1,4 +1,4 @@
-#SC OWNER_______________WASU
+#SC OWNER_______________WASU XWD
 from ast import Pass
 from os import name, path
 import os,base64,zlib,pip,urllib
@@ -52,7 +52,7 @@ else:
     pass
 #__________NEW IDX UA_____________#
 def WASU2():
- a = "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/487.1.0.74.74;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/456417358;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
+ a = "Dalvik/2.1.0 (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3) [FBAN/Orca-Android;FBAV/487.1.0.74.74;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/456417358;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
  b = "[FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235247;FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1893;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X6525B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/434.0.0.2.99;FBCX/modulariab;]"
  M1= a + b
  return M1
@@ -164,7 +164,7 @@ def linex():
     animation(f"\033[1;37m=====================================================\x1b[1;97m")
 #[===================UA-BOX======================]#
 def WASU():
-    return "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
+    return "Dalvik/2.1.0 (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
 #[===================MAIN-MENU======================]#
 def main():
     clear()
