@@ -164,7 +164,7 @@ def linex():
     animation(f"\033[1;37m=====================================================\x1b[1;97m")
 #[===================UA-BOX======================]#
 def WASU():
-    return "Dalvik/2.1.0 (Mozilla/5.0 (Linux; Android 13; M2101K6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
+    return "mozilla/5.0 (X11;linux x86_AppleWebkit/537.36 (KHTML, like Gecko)Chrome/124.0.0.0 safari/537.36) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
 #[===================MAIN-MENU======================]#
 def main():
     clear()
