@@ -70,7 +70,7 @@ def WASU1():
   #───────────────[BIT ROOM]───────────────────────── #
 import os, platform, time, sys
 #os.system('pkg install espeak ')
-print('\033[1;91m[\033[1;92m⊀⊁\033[1;91m] \033[1;91m⊀\33[1;92mAssalam O Alaikum\33[1;91m⊁ ')
+print('\033[1;91m[\033[1;92m⊀⊁\033[1;91m] \033[1;91m⊀\33[1;92mRahul don here\33[1;91m⊁ ')
 #os.system('espeak -a 300 " ,FILE CLONING 0.1, TOOLS,INSTALL Complete ,"')
 time.sleep(1)
 os.system('clear')
