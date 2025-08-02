@@ -115,8 +115,8 @@ logo=(""" \033[1;38m
 \033[1;37m OWNER    : Rahul don
 \033[1;31m FACEBOOK : Rahul••)
 \033[1;97m GITHUB   : SOURAVTIWARI91 
-\033[1;92m WHATSAPP : 9106391471 \033[1;90m(WASU)
-\033[1;92m WHATSAPP : 9106391471 \033[1;90m(RASHID)
+\033[1;92m WHATSAPP : 9106391471 \033[1;90m(Rahul)
+\033[1;92m WHATSAPP : 9106391471 \033[1;90m(Don)
 \033[1;33m STATUS   : TRAIL
 \033[1;91m NOTE     :\033[1;93m NO FEEDBACK NO APPROVAL 
 \33[37;41m\tBELIEVE,STRU\033[1;32mGGLE & ACHIEVE\33[0;m
@@ -144,10 +144,10 @@ logo=("""\033[1;37m /$$$$$$$   /$$$$$$  /$$   /$$ /$$   /$$ /$$
 | $$  | $$| $$  | $$| $$  | $$|  $$$$$$/| $$$$$$$$
 |__/  |__/|__/  |__/|__/  |__/ \______/ |________/
 \033[1;92m----------------------------------------------
-\033[1;32m OWNER    : WASU-XD
+\033[1;32m OWNER    : Rahul xd
 \033[1;32m FACEBOOK : Rahul🩷
 \033[1;92m GITHUB   : Souravtiwari91 
-\033[1;95m WHATSAPP : 9105391471 \033[1;90m(WASU)
+\033[1;95m WHATSAPP : 9105391471 \033[1;90m(Rahul)
 \033[1;34m VERSION  : \033[1;33m 0.5
 \033[1;35m STATUS   : FREE
 \033[1;92m-----------------------------------------------""")
